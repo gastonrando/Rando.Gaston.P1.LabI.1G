@@ -1,0 +1,354 @@
+# depslib dependency file v1.0
+1635429202 source:e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\destino.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"destino.h"
+
+1635462974 source:e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\empresa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empresa.h"
+
+1634939942 source:e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\fecha.c
+
+1635551583 source:e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\micro.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"micro.h"
+	"empresa.h"
+	"tipo.h"
+	"chofer.h"
+	"destino.h"
+	"viaje.h"
+
+1635351922 source:e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1635546513 source:e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\viaje.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"viaje.h"
+	"destino.h"
+	"micro.h"
+	"chofer.h"
+
+1635552541 source:e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"destino.h"
+	"empresa.h"
+	"micro.h"
+	"tipo.h"
+	"viaje.h"
+	"dataHarcodeo.h"
+	"chofer.h"
+	"informes.h"
+
+1634940201 e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\fecha.h
+
+1635429071 e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\destino.h
+
+1635351938 e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\empresa.h
+
+1635550512 e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\micro.h
+	"empresa.h"
+	"tipo.h"
+	"chofer.h"
+
+1635351918 e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\tipo.h
+
+1635545663 e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\viaje.h
+	"fecha.h"
+	"destino.h"
+	"micro.h"
+	"empresa.h"
+	"tipo.h"
+
+1635544690 source:e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\dataharcodeo.c
+	<string.h>
+	"dataHarcodeo.h"
+	"micro.h"
+	"tipo.h"
+	"empresa.h"
+	"destino.h"
+	"fecha.h"
+
+1635544809 e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\dataharcodeo.h
+	"micro.h"
+	"empresa.h"
+	"tipo.h"
+	"viaje.h"
+
+1635463077 source:e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"cliente.h"
+
+1635454004 e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\cliente.h
+
+1635545337 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia\rando.gaston.p1.labi.1g\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"cliente.h"
+
+1635544287 c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia\rando.gaston.p1.labi.1g\cliente.h
+
+1635544690 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia\rando.gaston.p1.labi.1g\dataharcodeo.c
+	<string.h>
+	"dataHarcodeo.h"
+	"micro.h"
+	"tipo.h"
+	"empresa.h"
+	"destino.h"
+	"fecha.h"
+
+1635544809 c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia\rando.gaston.p1.labi.1g\dataharcodeo.h
+	"micro.h"
+	"empresa.h"
+	"tipo.h"
+	"viaje.h"
+
+1635544923 c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia\rando.gaston.p1.labi.1g\micro.h
+	"empresa.h"
+	"tipo.h"
+	"cliente.h"
+
+1635351938 c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia\rando.gaston.p1.labi.1g\empresa.h
+
+1635351918 c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia\rando.gaston.p1.labi.1g\tipo.h
+
+1635545663 c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia\rando.gaston.p1.labi.1g\viaje.h
+	"fecha.h"
+	"destino.h"
+	"micro.h"
+	"empresa.h"
+	"tipo.h"
+
+1634940201 c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia\rando.gaston.p1.labi.1g\fecha.h
+
+1635429071 c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia\rando.gaston.p1.labi.1g\destino.h
+
+1635429202 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia\rando.gaston.p1.labi.1g\destino.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"destino.h"
+
+1635462974 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia\rando.gaston.p1.labi.1g\empresa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empresa.h"
+
+1634939942 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia\rando.gaston.p1.labi.1g\fecha.c
+
+1635545973 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia\rando.gaston.p1.labi.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"destino.h"
+	"empresa.h"
+	"micro.h"
+	"tipo.h"
+	"viaje.h"
+	"dataHarcodeo.h"
+	"cliente.h"
+	"informes.h"
+
+1635545980 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia\rando.gaston.p1.labi.1g\micro.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"micro.h"
+	"empresa.h"
+	"tipo.h"
+	"cliente.h"
+	"destino.h"
+	"viaje.h"
+
+1635351922 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia\rando.gaston.p1.labi.1g\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1635545854 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia\rando.gaston.p1.labi.1g\viaje.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"viaje.h"
+	"destino.h"
+	"micro.h"
+	"cliente.h"
+
+1635540360 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia\rando.gaston.p1.labi.1g\infromes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+
+1635530020 c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia\rando.gaston.p1.labi.1g\informes.h
+
+1635544690 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\dataharcodeo.c
+	<string.h>
+	"dataHarcodeo.h"
+	"micro.h"
+	"tipo.h"
+	"empresa.h"
+	"destino.h"
+	"fecha.h"
+
+1635544809 c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\dataharcodeo.h
+	"micro.h"
+	"empresa.h"
+	"tipo.h"
+	"viaje.h"
+
+1635550512 c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\micro.h
+	"empresa.h"
+	"tipo.h"
+	"chofer.h"
+
+1635351938 c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\empresa.h
+
+1635351918 c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\tipo.h
+
+1635546300 c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\cliente.h
+
+1635545663 c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\viaje.h
+	"fecha.h"
+	"destino.h"
+	"micro.h"
+	"empresa.h"
+	"tipo.h"
+
+1634940201 c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\fecha.h
+
+1635429071 c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\destino.h
+
+1635429202 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\destino.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"destino.h"
+
+1635462974 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\empresa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empresa.h"
+
+1634939942 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\fecha.c
+
+1635549352 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\infromes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+
+1635530020 c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\informes.h
+
+1635351922 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1635546164 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"chofer.h"
+
+1635546197 c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\chofer.h
+
+1635546294 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\cliente.c
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"cliente.h"
+
+1635551344 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"destino.h"
+	"empresa.h"
+	"micro.h"
+	"tipo.h"
+	"viaje.h"
+	"dataHarcodeo.h"
+	"chofer.h"
+	"informes.h"
+
+1635551453 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\micro.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"micro.h"
+	"empresa.h"
+	"tipo.h"
+	"chofer.h"
+	"destino.h"
+	"viaje.h"
+
+1635546513 source:c:\users\gaston\desktop\rando.gaston.p1.labi.1g - copia - copia\rando.gaston.p1.labi.1g\viaje.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"viaje.h"
+	"destino.h"
+	"micro.h"
+	"chofer.h"
+
+1635546164 source:e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"chofer.h"
+
+1635546197 e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\chofer.h
+
+1635551892 source:e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\infromes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+
+1635530020 e:\tecnicatura de programacion\1er cuatrimestre\programacion y laboratorio\parciales\1er parcial\rando.gaston.p1.labi.1g\rando.gaston.p1.labi.1g\informes.h
+
